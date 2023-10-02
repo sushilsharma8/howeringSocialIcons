@@ -85,27 +85,27 @@ body{
 .wrapper .facebook:hover,
 .wrapper .facebook:hover .tooltip,
 .wrapper .facebook:hover .tooltip::before{
-    background: #3b5998;
+    background: linear-gradient(to bottom, #17ead9, #6078ea);
     color: #fff;
 }
 
 .wrapper .twitter:hover,
 .wrapper .twitter:hover .tooltip,
 .wrapper .twitter:hover .tooltip::before {
-    background: #1da1f2;
+    background: linear-gradient(to bottom, #ea5271, #a42ddf);
     color: #fff;
 }
 
 .wrapper .instagram:hover,
 .wrapper .instagram:hover .tooltip,
 .wrapper .instagram:hover .tooltip::before {
-    background: #c32aa3;
+    background: rgba(0, 255, 255, 0.719);
     color: #fff;
 }
 
 .wrapper .youtube:hover,
 .wrapper .youtube:hover .tooltip,
 .wrapper .youtube:hover .tooltip::before {
-    background: #ff0000;
+    background: linear-gradient(to bottom, #edafaa, #5b86e5);
     color: #fff;
 }
